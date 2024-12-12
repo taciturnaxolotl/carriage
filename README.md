@@ -9,7 +9,9 @@
     <i>A train carriage can be anything you want it to be and is a container for storing things so that seems like an appropriate name</i>
 </p>
 
-#
+<p align="center">
+	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/line-break-thin.svg" />
+</p>
 
 ## What's this?
 
