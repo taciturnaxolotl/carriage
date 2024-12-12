@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-    <i>Carriage is the template repo for <a href="https://github.com/taciturnaxoltol/carriage">@taciturnaxolotl</a> (kieran)'s projects</i>
+    <i>A train carriage can be anything you want it to be and is a container for storing things so that seems like an appropriate name</i>
 </p>
 
 #
