@@ -1,6 +1,6 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/carriage.webp" width="200" alt="Logo"/><br/>
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
+    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
     <span>$$\Large \text{Carriage}$$</span>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
 </h3>
