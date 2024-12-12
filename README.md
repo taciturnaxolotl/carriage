@@ -1,8 +1,8 @@
 <h3 align="center">
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/main/.github/images/carriage.png" width="100" alt="Logo"/><br/>
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/main/.github/images/transparent.png" height="30" width="0px"/>
+    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/carriage.png" width="100" alt="Logo"/><br/>
+    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
     Carriage
-    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/main/.github/images/transparent.png" height="30" width="0px"/>
+    <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
@@ -24,5 +24,5 @@ I wanted a consistent way to start projects, and I wanted to make it easy to upd
 © 2024-present [Kieran Klukas](https://github.com/taciturnaxolotl) - Licensed under AGPL 3.0
 
 <p align="center">
-	<a href="https://github.com/taciturnaxolotl/carriage/blob/main/LICENSE.md"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=AGPL 3.0&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
+	<a href="https://github.com/taciturnaxolotl/carriage/blob/master/LICENSE.md"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=AGPL 3.0&logoColor=d9e0ee&colorA=363a4f&colorB=b7bdf8"/></a>
 </p>
