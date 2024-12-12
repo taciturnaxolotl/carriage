@@ -11,9 +11,9 @@
 
 #
 
-## Why?
+## What's this?
 
-I wanted a consistent way to format my `README.md` and a nice template to use when creating a new project so this is what I made!
+This is my personal template repo! It serves as the reference for my `README.md` formating style and hopefully soon my license scheme.
 
 ## Why that License?
 
