@@ -7,6 +7,16 @@
   height="51.63636363636363"
   viewBox="0, 0, 400,51.63636363636363"
 >
+ <style>
+    :root {
+      --borderColor-muted: #363A4F;
+    }
+    @media (prefers-color-scheme: light) {
+      :root {
+        --borderColor-muted: #CCD0DA;
+      }
+    }
+  </style>
   <g id="svgg">
     <path
       id="path0"
@@ -17,15 +27,3 @@
     ></path>
   </g>
 </svg>
-
-<style>
-  :root {
-    --borderColor-muted: #CCD0DA; /* Default (light mode) */
-  }
-
-  @media (prefers-color-scheme: dark) {
-    :root {
-      --borderColor-muted: #363A4F; /* Dark mode */
-    }
-  }
-</style>
