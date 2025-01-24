@@ -1,7 +1,7 @@
 <h3 align="center">
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/carriage.webp" width="200" alt="Logo"/><br/>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
-    <span>$$\Large \text{Carriage}$$</span>
+    <span>Carriage</span>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
 </h3>
 
@@ -15,11 +15,20 @@
 
 ## What's this?
 
-This is my personal template repo! It serves as the reference for my `README.md` formating style and hopefully soon my license scheme.
+This is my personal template repo! It serves as the reference for my `README.md` formating style and ~~hopefully soon my license scheme~~.
 
 ## Why that License?
 
-Well honestly i'm not quite sure myself. I've been currently looking into [Fair Source](https://fair.io/licenses/) licenses and the PolyForm [Small Business](https://polyformproject.org/licenses/small-business/1.0.0/) license to try and build a better default licensing scheme for my projects. As of now though I typically tend to use AGPL 3.0 as my default license. My main problem with it is that it doesn't provide a clear way for businesses to use the work commercially as most companies don't seem to want their proprietary modifications open source and public (for understandable reasons). Hopefully I can have a nice clear picture of how different licenses mash together and develop a nice clean system that continues to allow others to fork and modify my projects while giving me some kick back for large scale commercial use. Yes I know that isn't technically open source but it feels like a better way of balancing openness with commercialization.
+Well I like using the AGPL 3.0 license because it's a strong copyleft license that ensures that any changes made to the code are shared back with the community. However there is often alot of confusion about how the license works. Here are 3 brief cases showing how the AGPL 3.0 license works:
+
+1. You download the binary from the releases or use a hosted version.
+    - You haven't done anything to the code so you are entirely in the clear!
+2. You see a problem with the code so you fork it and use it privately
+    - You are still in the clear! The AGPL 3.0 license only requires you to share the code if you distribute it.
+3. You find an improvement, implement it, and distribute it privately in your company or for some family and friends
+    - You are still in the clear! The AGPL 3.0 license only requires you to share the code if you distribute it to the public.
+
+Basically if you distribute the code publicaly you have to share the code, but if you don't distribute the code publicaly or don't modify it then you don't have to share the code.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/line-break.svg" />
