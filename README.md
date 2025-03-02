@@ -35,7 +35,7 @@ Basically if you distribute the code publicaly you have to share the code, but i
 </p>
 
 <p align="center">
-	&copy 2024-present <a href="https://github.com/taciturnaxolotl">Kieran Klukas</a>
+	<i><code>&copy 2024-present <a href="https://github.com/taciturnaxolotl">Kieran Klukas</a></code></i>
 </p>
 
 <p align="center">
