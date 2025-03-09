@@ -1,9 +1,9 @@
-<h3 align="center">
+<h1 align="center">
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/carriage.webp" width="200" alt="Logo"/><br/>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="45" width="0px"/>
     <span>Carriage</span>
     <img src="https://raw.githubusercontent.com/taciturnaxolotl/carriage/master/.github/images/transparent.png" height="30" width="0px"/>
-</h3>
+</h1>
 
 <p align="center">
     <i>A train carriage can be anything you want it to be and is a container for storing things so that seems like an appropriate name</i>
